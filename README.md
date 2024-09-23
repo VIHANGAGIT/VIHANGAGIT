@@ -11,7 +11,6 @@ I am an undergraduate pursuing a Bachelor of Science in Information Systems at t
 - Software Development
 - Cybersecurity
 - Competitive Programming
-- AI & Machine Learning
 
 ## 🌱 Currently Learning
 - Java Spring Boot
