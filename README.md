@@ -3,6 +3,10 @@
 ## 👨‍🎓 About Me
 I am an undergraduate pursuing a Bachelor of Science in Information Systems at the University of Colombo School of Computing. My passion lies in software development and cybersecurity, and I aim to leverage my skills to solve real-world problems.
 
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIHANGAGIT&layout=compact&theme=tokyonight&langs_count=6" />-->
+
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIHANGAGIT)](https://github.com/VIHANGAGIT/github-readme-stats) -->
+
 ## 🛠️ Interests
 - Software Development
 - Cybersecurity
