@@ -1,7 +1,7 @@
 # Hi there, I'm Vihanga Vithanawasam 👋
 
 ## 👨‍🎓 About Me
-I am an undergraduate pursuing a Bachelor of Science in Information Systems at the University of Colombo School of Computing. My passion lies in software development and cybersecurity, and I aim to leverage my skills to solve real-world problems.
+I am an undergraduate pursuing a BSc (Hons) in Information Systems at the University of Colombo School of Computing. My passion lies in software development and cybersecurity, and I aim to leverage my skills to solve real-world problems.
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIHANGAGIT&layout=compact&theme=tokyonight&langs_count=6" />-->
 
