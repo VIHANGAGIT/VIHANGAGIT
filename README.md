@@ -4,7 +4,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=VIHANGAGIT&style=flat-square&color=blue)
 
 ## 👨‍🎓 About Me
-I am an undergraduate pursuing a **BSc (Hons) in Information Systems** at the University of Colombo School of Computing (**UCSC**). My passion lies in software development and cybersecurity, and I aim to leverage my skills to solve real-world problems.
+I am a Software Engineer at WSO2. Graduated from the University of Colombo School of Computing (**UCSC**) and Kingston University, UK. My passion lies in software development and cybersecurity, and I aim to leverage my skills to solve real-world problems.
 
 ## 🛠️ Interests
 * **Software Development**
